@@ -4,7 +4,7 @@ This repository collects research artifacts and supporting outputs - from vibe c
 
 <div align="center">
 
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202026-blueviolet?style=for-the-badge&logo=github&logoWidth=20)](https://github.com/Syudu41/random-resch-artfts)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-Wednesday%2C%20April%208%2C%202026%20%7C%2003:30%20CST-blueviolet?style=for-the-badge&logo=github&logoWidth=20)](https://github.com/Syudu41/random-resch-artfts)
 
 </div>
 
