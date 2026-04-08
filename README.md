@@ -2,8 +2,11 @@
 
 This repository collects research artifacts and supporting outputs - from vibe coding to agentic engineering.
 
-[Last Updated: \[Date\]](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Last%20Update&query=commit.committer.date&url=https%3A%2F%2Fapi.github.com%2Frepos%2FSyudu41%2Frandom-resch-artfts%2Fbranches%2Fmain&format=%7Bdate%7D)
-<br>
+<div align="center">
+
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202026-blueviolet?style=for-the-badge&logo=github&logoWidth=20)](https://github.com/Syudu41/random-resch-artfts)
+
+</div>
 
 
 
@@ -14,7 +17,8 @@ This repository collects research artifacts and supporting outputs - from vibe c
 
 
 ---
-Copywrite to sbalaji, 2026
+
+© sbalaji, 2026
 
 
 
